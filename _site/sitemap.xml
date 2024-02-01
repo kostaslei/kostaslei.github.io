@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/cosmos-countdown</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resume/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/rota-widget</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/KonstantinosLeivaditisCV.pdf</loc>
+<lastmod>2024-01-31T04:54:03+01:00</lastmod>
+</url>
+</urlset>
