@@ -9,4 +9,6 @@ gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
   gem "jekyll-data"
+  gem "jekyll-include-cache"
+  gem "github-pages"
 end
